@@ -1,0 +1,3 @@
+export default function DashboardSettingsPage() {
+  return <><h1 className="text-3xl font-semibold">Agent settings</h1><section className="mt-5 grid gap-3 rounded-lg border border-stone-200 bg-white p-5"><label className="flex items-center justify-between gap-4 font-medium">Email notifications<input type="checkbox" defaultChecked /></label><label className="flex items-center justify-between gap-4 font-medium">SMS inquiry alerts<input type="checkbox" defaultChecked /></label><label className="flex items-center justify-between gap-4 font-medium">Public profile visible<input type="checkbox" defaultChecked /></label></section></>;
+}

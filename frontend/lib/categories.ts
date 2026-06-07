@@ -1,0 +1,18 @@
+export const categories = [
+  { name: "Apartments", slug: "apartments", color: "#2563eb" },
+  { name: "Bedsitters", slug: "bedsitters", color: "#16a34a" },
+  { name: "Maisonettes", slug: "maisonettes", color: "#dc2626" },
+  { name: "Commercial", slug: "commercial", color: "#9333ea" },
+  { name: "Industrial", slug: "industrial", color: "#dc2626" },
+  { name: "Hospitality", slug: "hospitality", color: "#ea580c" },
+  { name: "Land", slug: "land", color: "#d97706" },
+  { name: "Retail", slug: "retail", color: "#6a1edb" },
+  { name: "Student housing", slug: "student-housing", color: "#15803d" },
+  { name: "Co-working", slug: "co-working", color: "#7e22ce" },
+  { name: "Townhouses", slug: "townhouses", color: "#9333ea" },
+  { name: "Penthouse", slug: "penthouse", color: "#1d4ed8" },
+  { name: "Warehouses", slug: "warehouses", color: "#b91c1c" },
+  { name: "Serviced units", slug: "serviced-units", color: "#0369a1" },
+  { name: "Mixed use", slug: "mixed-use", color: "#334155" },
+  { name: "Short stays", slug: "short-stays", color: "#0891b2" },
+];
